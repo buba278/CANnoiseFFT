@@ -1,0 +1,7 @@
+../Core/Src/main.c:45:6:sendCanMessageStd	2
+../Core/Src/main.c:71:6:HAL_CAN_RxFifo0MsgPendingCallback	2
+../Core/Src/main.c:123:5:main	1
+../Core/Src/main.c:173:6:SystemClock_Config	3
+../Core/Src/main.c:212:14:MX_CAN_Init	5
+../Core/Src/main.c:278:13:MX_GPIO_Init	1
+../Core/Src/main.c:298:6:Error_Handler	1
