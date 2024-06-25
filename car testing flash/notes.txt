@@ -1,0 +1,5 @@
+18 onwards the car is in rtd
+
+at the start there was just some steady glv measurements 
+
+then the rest are in hv ts active
